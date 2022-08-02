@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+    android:padding="20dp"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="61dp"
+        android:text="Latifah Irsyadiah"
+        android:textSize="35dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:text="NIS: 3005"
+        android:textSize="20dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="63dp"
+        android:text="Maulida Intan Nur"
+        android:textSize="35dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="33dp"
+        android:text="NIS: 3008"
+        android:textSize="20dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:background="#00ff00"
+        android:text="Miftakhul Jannah"
+        android:textSize="35dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:background="#00ff00"
+        android:text="NIS: 3010"
+        android:textSize="20dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="62dp"
+        android:text="Muh Asa Susilo"
+        android:textSize="35dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="NIS: 3011"
+        android:textSize="20dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:text="Muhammad Haikal"
+        android:textSize="35dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:text="NIS: 3013"
+        android:textSize="20dp" />
+
+
+</LinearLayout>
